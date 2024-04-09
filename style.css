@@ -1,0 +1,152 @@
+h1{
+	font-family: "Bebas Neue", sans-serif;
+  font-size:50px;
+  font-weight:700;
+  color:#627254;
+  letter-spacing:1px;
+  margin:10px auto;
+}
+
+h2{
+	font-family: "Bebas Neue", sans-serif;
+	font-size:24px;
+	font-weight:100;
+	color:black;
+	letter-spacing:0px;
+}
+
+
+body{
+	background-color: #DDDDDD;
+	font-family:"Mukta",sans-serif;
+	font-weight:100;
+	color:#76885B;
+	margin:20px;
+}
+
+
+a{
+	text-decoration: none ;
+	color:white;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+	color:black;
+}
+
+
+img{
+	width: 150px;
+  margin-left: 20px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+}
+
+.elements-middle{
+	width:800px;
+  margin:10px auto;
+}
+
+.background-white{
+	height: auto;
+  background: white;
+  padding: 10px;
+  margin: 10px;
+  margin-right:0px;
+  border-radius: 5px 5px 5px 5px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+
+}
+
+.connection-footer{
+	clear:both;
+	position:fixed;
+	left:0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: lightgrey;
+  padding-top:10px;
+  padding-bottom:10px;
+
+}
+
+.connection-footer a{
+	color:black;
+}
+
+.contact-box{
+	text-align: left;
+	margin-left:20px;
+	float: left;
+}
+
+.contact-box p,h2{
+	color:black;
+	margin:0px;
+}
+
+.contact-box p{
+	font-family:"Mukta",sans-serif;
+	font-weight:100;
+	color:black;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+	margin:0px;
+}
+
+.list-inline li{
+	display: inline;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:10px;
+	padding-top: 0px;
+}
+
+
+.sidebar{
+	height: 100%;
+  width: 200px;
+  float: left;
+  padding-top: 20px;
+	background-color:#627254;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.profile-info{
+	padding-top: 10px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.name-intro{
+	padding: 0px;
+  height: 50px;
+  margin-top: 0px;
+
+}
+
+.follow-header h2{
+	margin:0px;
+}
+
+.header-hobbies h2{
+	margin:0px;
+}
+
+.header-hobbies p{
+	margin:0px;
+}
+
+i{
+	font-size:50px;
+}
+
+i:hover{
+	color:#627254;
+}
